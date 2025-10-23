@@ -22,7 +22,7 @@ Tech Stack : HTML, CSS
 A responsive calculator app that generates unique advice on every refresh and button click.  
 Focus: Implemented project using Advice Slip API and experienced how to manipulate DOM and implement event listeners.  
 
-![Tip Calculator Screenshot](https://github.com/username456/tip-calculator/blob/main/screenshot.png?raw=true)  
+![Tip Calculator Screenshot](./adviceGenerator.PNG)  
 [View Repository](https://github.com/username456/tip-calculator) | [Live Demo](https://username456.github.io/tip-calculator)
 
 ### Tip Calculator  
