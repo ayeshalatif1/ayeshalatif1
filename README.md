@@ -77,7 +77,7 @@ Focus: Using React hooks like useState, and useEffect for dynamic calculations a
 
 ![Background Color Changer Screenshot](./tip.PNG)  
 
-[View Repository](https://github.com/ayeshalatif1/Tip-Calculator/settings/pages) | [Live Demo](https://ayeshalatif1.github.io/Tip-Calculator/)
+[View Repository](https://github.com/ayeshalatif1/Tip-Calculator/) | [Live Demo](https://ayeshalatif1.github.io/Tip-Calculator/)
 
 ### Currency Converter
 A Currency Converter built with React that allows users to convert between different currencies using real-time exchange rates.
