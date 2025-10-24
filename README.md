@@ -1,6 +1,8 @@
 # Hi, I'm Ayesha Latif
 
-I’m a passionate web developer learning modern tools and techniques by working on various self-driven web development projects. My projects also include converting a UI design into pixel-perfect HTML/React code, using custom CSS, and applying frameworks like Bootstrap and Tailwind CSS. Currently, I’m focusing on adding interactivity to websites, improving performance optimization, and expanding my knowledge of full-stack technologies.
+I’m a passionate web developer dedicated to learning modern web development tools and techniques and strengthening my skills through self-driven projects. I regularly take on Frontend Mentor challenges to practice building responsive and pixel-perfect UIs using HTML, CSS, JavaScript, and React, along with frameworks like Bootstrap and Tailwind CSS. My current focus is on adding interactivity, improving website optimization, and expanding my knowledge of full-stack technologies.
+
+You can view my frontend mentor solutions here: https://www.frontendmentor.io/profile/ayeshalatif1
 
 I’m seeking opportunities where I can apply my skills to contribute effectively to an organization’s goals while continuing to learn and grow in the field.
 
