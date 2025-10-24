@@ -1,6 +1,8 @@
 # Hi, I'm Ayesha Latif
 
-I am a passionate web developer learning web development tools and techniques and working on self projects to strengthen my skills. The current projects I am working on features include transforming UI design in pixel perfect HTML/react code and adding custom CSS for styling with knowledge of Bootstrap and Tailwind CSS. Currently my focus is working on adding interactivity on websites and adopting best techniques for optimization along with working on full stack technologies. I am seeking roles where I can employ my current skills to contribute effectively towards achieving organization's goals and learning new toola and techniques within my role.
+I’m a passionate web developer learning modern tools and techniques by working on various self-driven web development projects. I am also woeking on projects that involve converting a UI design into pixel-perfect HTML/React code, using custom CSS, and applying frameworks like Bootstrap and Tailwind CSS. Currently, I’m focusing on adding interactivity to websites, improving performance optimization, and expanding my knowledge of full-stack technologies.
+
+I’m seeking opportunities where I can apply my skills to contribute effectively to an organization’s goals while continuing to learn and grow in the field.
 
 ## Contact
 
