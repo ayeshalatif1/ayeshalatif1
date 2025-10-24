@@ -39,7 +39,7 @@ Focus: Implemented project using Advice Slip API and experienced how to manipula
 
 ![Advice Generator Screenshot](./adviceGenerator.PNG)  
 
-[View Repository](https://github.com/username456/tip-calculator) | [Live Demo](https://username456.github.io/tip-calculator)
+[View Repository](https://github.com/ayeshalatif1/ADVICE-GENERATOR-APP) | [Live Demo](https://ayeshalatif1.github.io/ADVICE-GENERATOR-APP/)
 
 ### Tic Tac Toe Game  
 A classic Tic Tac Toe Game built with HTML, CSS, and JavaScript. Players can enjoy a simple, interactive interface with real-time win detection and reset functionality.
