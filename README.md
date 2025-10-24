@@ -22,7 +22,7 @@ Tech Stack : HTML, CSS
 A responsive and clean Sunny Side Agency Landing Page built with HTML, CSS, and JavaScript. The layout adapts seamlessly to different screen sizes, with a dynamic menu optimized for mobile devices.
 Focus: Implementing responsive design techniques and using JavaScript to create a mobile-friendly navigation menu. 
 
-[Screenshot](./ayeshalatif1.github.io_LAN
+[Screenshot](./SunnySide.PNG)
 
 [View Repository] (https://github.com/ayeshalatif1/LANDING-PAGE-SUNNYSIDE-AGENCY-) 
 
