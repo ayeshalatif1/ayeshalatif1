@@ -30,13 +30,16 @@ Focus: Implementing responsive design techniques and using JavaScript to create 
 [Live Demo] (https://ayeshalatif1.github.io/LANDING-PAGE-SUNNYSIDE-AGENCY-/)
 
 ### Advice Generator App  
-A responsive calculator app that generates unique advice on every refresh and button click.  
+A responsive app that generates unique advice on every refresh and button click.  
 
 Focus: Implemented project using Advice Slip API and experienced how to manipulate DOM and implement event listeners.  
 
 ![Advice Generator Screenshot](./adviceGenerator.PNG)  
+
 [View Repository](https://github.com/username456/tip-calculator) 
+
 [Live Demo](https://username456.github.io/tip-calculator)
+
 
 ### FAQ Accordion
 An interactive FAQ Accordion built with HTML, CSS, and JavaScript. It allows users to expand or collapse questions smoothly, providing a clean and responsive way to display FAQs.
@@ -51,15 +54,17 @@ Focus: Using JavaScript to toggle content visibility and implementing a responsi
 
 
 
-### Currency Converter  
-Built an intuitive interface for converting currencies using live exchange rates from an external API.  
-**Focus:** Developed frontend logic and API integration to match a provided design layout.  
-**Tech Stack:** React, API Integration, CSS  
+### Tic Tac Toe Game  
+A classic Tic Tac Toe Game built with HTML, CSS, and JavaScript. Players can enjoy a simple, interactive interface with real-time win detection and reset functionality.
 
-![Currency Converter Screenshot](https://github.com/username456/currency-converter/blob/main/screenshot.png?raw=true)  
-[View Repository](https://github.com/username456/currency-converter) | [Live Demo](https://username456.github.io/currency-converter)
+Focus: Implementing game logic with JavaScript, handling player turns, and dynamically updating the UI based on game outcomes.
 
----
+![Currency Converter Screenshot](./IMG_20251024_000841.jpg)  
+
+[View Repository] (https://github.com/ayeshalatif1/Tic-Tac-Toe-Game) 
+
+[Live Demo] (https://ayeshalatif1.github.io/Tic-Tac-Toe-Game/)
+
 
 ### Self Checkout POS System  
 A desktop-based POS system for product billing and stock updates.  
