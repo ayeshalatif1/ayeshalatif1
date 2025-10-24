@@ -87,23 +87,16 @@ Focus: Fetching live data from an API and using React state management to update
 
 ## Technical Skills
 
-Frontend: React, HTML, CSS, JavaScript, Tailwind CSS  
-Backend: Node.js, Express.js, .NET (C#)  
+Programming Languages: React, HTML, CSS, JavaScript, C++
 Database: MySQL, SQL Server  
-Tools: Git, GitHub, VS Code, Android Studio, Postman  
-Other: REST APIs, JSON, Responsive Web Design
-
----
-
----
+Tools: Git, GitHub, VS Code
+Other: APIs, JSON, Responsive Web Design, Tailwind CSS
 
 ## Highlights
 
 - Experienced in translating **UI/UX designs into clean, maintainable code**  
 - Skilled in **responsive layouts** and **component-based development**  
 - Familiar with **API integration**, **state management**, and **data validation**  
-- Continuously improving skills in modern frontend frameworks and clean coding practices  
-
----
+- Continuously improving skills in web frameworks and clean coding practices  
 
 
