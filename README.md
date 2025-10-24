@@ -18,12 +18,21 @@ CGPA - 3.55
 
 Tech Stack : HTML, CSS
 
+### Sunny Side Agency Landing Page  
+A responsive and clean Sunny Side Agency Landing Page built with HTML, CSS, and JavaScript. The layout adapts seamlessly to different screen sizes, with a dynamic menu optimized for mobile devices.
+Focus: Implementing responsive design techniques and using JavaScript to create a mobile-friendly navigation menu. 
+
+![Advice Generator Screenshot](./ayeshalatif1.github.io_LANDING-PAGE-SUNNYSIDE-AGENCY-_ (1).PNG)  
+[View Repository](https://github.com/ayeshalatif1/LANDING-PAGE-SUNNYSIDE-AGENCY-) 
+[Live Demo](https://ayeshalatif1.github.io/LANDING-PAGE-SUNNYSIDE-AGENCY-/)
+
 ### Advice Generator App  
 A responsive calculator app that generates unique advice on every refresh and button click.  
 Focus: Implemented project using Advice Slip API and experienced how to manipulate DOM and implement event listeners.  
 
-![Tip Calculator Screenshot](./adviceGenerator.PNG)  
-[View Repository](https://github.com/username456/tip-calculator) | [Live Demo](https://username456.github.io/tip-calculator)
+![Advice Generator Screenshot](./adviceGenerator.PNG)  
+[View Repository](https://github.com/username456/tip-calculator) 
+[Live Demo](https://username456.github.io/tip-calculator)
 
 ### Tip Calculator  
 A responsive calculator app that accurately computes tips and splits bills between users.  
