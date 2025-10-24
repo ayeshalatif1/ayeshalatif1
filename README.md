@@ -20,6 +20,7 @@ Tech Stack : HTML, CSS
 
 ### Sunny Side Agency Landing Page  
 A responsive and clean Sunny Side Agency Landing Page built with HTML, CSS, and JavaScript. The layout adapts seamlessly to different screen sizes, with a dynamic menu optimized for mobile devices.
+
 Focus: Implementing responsive design techniques and using JavaScript to create a mobile-friendly navigation menu. 
 
 ![Screenshot](./SunnySide.png)
@@ -30,19 +31,23 @@ Focus: Implementing responsive design techniques and using JavaScript to create 
 
 ### Advice Generator App  
 A responsive calculator app that generates unique advice on every refresh and button click.  
+
 Focus: Implemented project using Advice Slip API and experienced how to manipulate DOM and implement event listeners.  
 
 ![Advice Generator Screenshot](./adviceGenerator.PNG)  
 [View Repository](https://github.com/username456/tip-calculator) 
 [Live Demo](https://username456.github.io/tip-calculator)
 
-### Tip Calculator  
-A responsive calculator app that accurately computes tips and splits bills between users.  
-**Focus:** Implemented a modern, minimal UI design in React with responsive layout.  
-**Tech Stack:** React, CSS  
+### FAQ Accordion
+An interactive FAQ Accordion built with HTML, CSS, and JavaScript. It allows users to expand or collapse questions smoothly, providing a clean and responsive way to display FAQs.
 
-![Tip Calculator Screenshot](https://github.com/username456/tip-calculator/blob/main/screenshot.png?raw=true)  
-[View Repository](https://github.com/username456/tip-calculator) | [Live Demo](https://username456.github.io/tip-calculator)
+Focus: Using JavaScript to toggle content visibility and implementing a responsive, user-friendly accordion layout.
+
+![Tip Calculator Screenshot](./Capture.PNG)  
+
+[View Repository](https://github.com/ayeshalatif1/FAQ-ACCORDION) 
+
+[Live Demo](https://ayeshalatif1.github.io/FAQ-ACCORDION/)
 
 
 
