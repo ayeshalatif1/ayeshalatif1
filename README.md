@@ -1,6 +1,6 @@
 # Hi, I'm Ayesha Latif
 
-I’m a passionate web developer learning modern tools and techniques by working on various self-driven web development projects. I am also woeking on projects that involve converting a UI design into pixel-perfect HTML/React code, using custom CSS, and applying frameworks like Bootstrap and Tailwind CSS. Currently, I’m focusing on adding interactivity to websites, improving performance optimization, and expanding my knowledge of full-stack technologies.
+I’m a passionate web developer learning modern tools and techniques by working on various self-driven web development projects. My projects also include converting a UI design into pixel-perfect HTML/React code, using custom CSS, and applying frameworks like Bootstrap and Tailwind CSS. Currently, I’m focusing on adding interactivity to websites, improving performance optimization, and expanding my knowledge of full-stack technologies.
 
 I’m seeking opportunities where I can apply my skills to contribute effectively to an organization’s goals while continuing to learn and grow in the field.
 
@@ -11,9 +11,12 @@ I’m seeking opportunities where I can apply my skills to contribute effectivel
 ## Education
 
 Bachelor’s in Information Technology  
-University — Mirpur University of Science & Technology
-Year of Graduation - 2024
-CGPA - 3.55
+
+University: Mirpur University of Science & Technology
+
+Year of Graduation: 2024
+
+CGPA: 3.55
 
 
 ## Featured Projects
@@ -63,8 +66,6 @@ A small web app that dynamically changes background colors with smooth transitio
 
 Focus: Implementation of state management for smooth transition and object manipulation to display relevent color name and description.  
 
-Tech Stack: React, Tailwind CSS  
-
 ![Background Color Changer Screenshot](./bgChange.png)  
 
 [View Repository](https://github.com/ayeshalatif1/backgroundColorChanger) | [Live Demo](https://ayeshalatif1.github.io/backgroundColorChanger/)
@@ -90,8 +91,11 @@ Focus: Fetching live data from an API and using React state management to update
 ## Technical Skills
 
 Programming Languages: React, HTML, CSS, JavaScript, C++
+
 Database: MySQL, SQL Server  
+
 Tools: Git, GitHub, VS Code
+
 Other: APIs, JSON, Responsive Web Design, Tailwind CSS
 
 ## Highlights
