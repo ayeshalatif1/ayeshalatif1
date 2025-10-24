@@ -8,7 +8,7 @@ I’m seeking opportunities where I can apply my skills to contribute effectivel
 
 ## Contact
 
-[GitHub](https://github.com/ayeshalatif1) | [LinkedIn](https://linkedin.com/in/ayeshalatif111) | [Email](ayeshalatif223@gmail.com)
+[LinkedIn](https://linkedin.com/in/ayeshalatif111) | [Email](ayeshalatif223@gmail.com)
 
 ## Education
 
