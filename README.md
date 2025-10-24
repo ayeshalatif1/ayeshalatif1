@@ -22,9 +22,11 @@ Tech Stack : HTML, CSS
 A responsive and clean Sunny Side Agency Landing Page built with HTML, CSS, and JavaScript. The layout adapts seamlessly to different screen sizes, with a dynamic menu optimized for mobile devices.
 Focus: Implementing responsive design techniques and using JavaScript to create a mobile-friendly navigation menu. 
 
+[Screenshot](./ayeshalatif1.github.io_LAN
 
-[View Repository](https://github.com/ayeshalatif1/LANDING-PAGE-SUNNYSIDE-AGENCY-) 
-[Live Demo](https://ayeshalatif1.github.io/LANDING-PAGE-SUNNYSIDE-AGENCY-/)
+[View Repository] (https://github.com/ayeshalatif1/LANDING-PAGE-SUNNYSIDE-AGENCY-) 
+
+[Live Demo] (https://ayeshalatif1.github.io/LANDING-PAGE-SUNNYSIDE-AGENCY-/)
 
 ### Advice Generator App  
 A responsive calculator app that generates unique advice on every refresh and button click.  
