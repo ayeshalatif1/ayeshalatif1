@@ -34,14 +34,6 @@ Focus: Using JavaScript to toggle content visibility and implementing a responsi
 
 [View Repository](https://github.com/ayeshalatif1/FAQ-ACCORDION) | [Live Demo](https://ayeshalatif1.github.io/FAQ-ACCORDION/)
 
-### Advice Generator App  
-A responsive app that generates unique advice on every refresh and button click.  
-
-Focus: Implemented project using Advice Slip API and experienced how to manipulate DOM and implement event listeners.  
-
-![Advice Generator Screenshot](./adviceGenerator.PNG)  
-
-[View Repository](https://github.com/ayeshalatif1/ADVICE-GENERATOR-APP) | [Live Demo](https://ayeshalatif1.github.io/ADVICE-GENERATOR-APP/)
 
 ### Tic Tac Toe Game  
 A classic Tic Tac Toe Game built with HTML, CSS, and JavaScript. Players can enjoy a simple, interactive interface with real-time win detection and reset functionality.
