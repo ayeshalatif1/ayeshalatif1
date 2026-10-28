@@ -8,17 +8,7 @@ I’m seeking opportunities where I can apply my skills to contribute effectivel
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/ayeshalatif111) | [Email](ayeshalatif223@gmail.com)
-
-## Education
-
-Bachelor’s in Information Technology  
-
-University: Mirpur University of Science & Technology
-
-Year of Graduation: 2024
-
-CGPA: 3.55
+[LinkedIn](https://linkedin.com/in/ayeshalatif111) | [Email](ayeshalatifchoudhery@gmail.com)
 
 
 ## Featured Projects
