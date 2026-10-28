@@ -8,7 +8,7 @@ I am an Information Technology graduate with hands-on experience in web developm
 
 ## Featured Projects
 
-### Explain My Learning Risk
+### 1. Explain My Learning Risk
 An explainable early-warning prototype that estimates whether a student may be at risk of poor academic performance and explains the estimate in simple educational language.
 
 Focus: Build a student-performance prediction prototype. It should accept student information, predict a performance/risk category, identify the main factors influencing that result, and present those factors in simple educational language
@@ -26,7 +26,7 @@ SHAP
 
 ![Explain My Learning Risk Screenshot](https://github.com/ayeshalatif1/explain-my-learning-risk/blob/main/1.PNG)  
 
-### Currency Converter
+### 2. Currency Converter
 A Currency Converter built with React that allows users to convert between different currencies using real-time exchange rates.
 
 Focus: Fetching live data from an API and using React state management to update conversion results dynamically.
@@ -37,7 +37,7 @@ Focus: Fetching live data from an API and using React state management to update
 
 [View Repository](https://github.com/ayeshalatif1/currencyConverter) | [Live Demo](https://ayeshalatif1.github.io/currencyConverter/)
 
-### Tip Calculator
+### 3. Tip Calculator
 A responsive Tip Calculator built with React that helps users easily calculate the tip amount and total bill per person.
 
 Focus: Using React hooks like useState, and useEffect for dynamic calculations and building a clean, user-friendly interface.
@@ -49,7 +49,7 @@ Focus: Using React hooks like useState, and useEffect for dynamic calculations a
 [View Repository](https://github.com/ayeshalatif1/Tip-Calculator/) | [Live Demo](https://ayeshalatif1.github.io/Tip-Calculator/)
 
 
-### Sunny Side Agency Landing Page  
+### 4. Sunny Side Agency Landing Page  
 A responsive and clean Sunny Side Agency Landing Page built with HTML, CSS, and JavaScript. The layout adapts seamlessly to different screen sizes, with a dynamic menu optimized for mobile devices.
 
 Focus: Implementing responsive design techniques and using JavaScript to create a mobile-friendly navigation menu. 
@@ -61,7 +61,7 @@ Focus: Implementing responsive design techniques and using JavaScript to create 
 [View Repository](https://github.com/ayeshalatif1/LANDING-PAGE-SUNNYSIDE-AGENCY-) | [Live Demo](https://ayeshalatif1.github.io/LANDING-PAGE-SUNNYSIDE-AGENCY-/)
  
 
-### Tic Tac Toe Game  
+### 5. Tic Tac Toe Game  
 A classic Tic Tac Toe Game built with HTML, CSS, and JavaScript. Players can enjoy a simple, interactive interface with real-time win detection and reset functionality.
 
 Focus: Implementing game logic with JavaScript, handling player turns, and dynamically updating the UI based on game outcomes.
