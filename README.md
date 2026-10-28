@@ -42,7 +42,7 @@ Deployment: Streamlit Community Cloud
 1.PNG
 1.PNG
 
-![Tip Calculator Screenshot](./explain-my-learning-risk/1.PNG)  
+![Tip Calculator Screenshot](https://github.com/ayeshalatif1/explain-my-learning-risk/blob/main/1.PNG)  
 
 
 ### FAQ Accordion
