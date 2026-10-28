@@ -1,15 +1,10 @@
 # Hi, I'm Ayesha Latif
 
-I’m a passionate web developer dedicated to learning modern web development tools and techniques and strengthening my skills through self-driven projects. I regularly take on Frontend Mentor challenges to practice building responsive and pixel-perfect UIs using HTML, CSS, JavaScript, and React, along with frameworks like Bootstrap and Tailwind CSS. My current focus is on adding interactivity, improving website optimization, and expanding my knowledge of full-stack technologies.
-
-You can view my frontend mentor solutions here: https://www.frontendmentor.io/profile/ayeshalatif1
-
-I’m seeking opportunities where I can apply my skills to contribute effectively to an organization’s goals while continuing to learn and grow in the field.
+I am an Information Technology graduate with hands-on experience in web development, databases, and application development. My experience includes building web applications, working with data, and developing practical software solutions. I am expanding my skills in  Artificial Intelligence, with a focus on applying machine learning techniques, and building practical AI-powered applications. Through independent learning and project-based practice, I aim to strengthen my technical skills and explore opportunities at the intersection of web development and AI.
 
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/ayeshalatif111) | [Email](ayeshalatifchoudhery@gmail.com)
-
 
 ## Featured Projects
 
@@ -29,9 +24,19 @@ joblib,
 Streamlit,
 SHAP
 
-![Tip Calculator Screenshot](https://github.com/ayeshalatif1/explain-my-learning-risk/blob/main/1.PNG)  
+![Explain My Learning Risk Screenshot](https://github.com/ayeshalatif1/explain-my-learning-risk/blob/main/1.PNG)  
 
+### Sunny Side Agency Landing Page  
+A responsive and clean Sunny Side Agency Landing Page built with HTML, CSS, and JavaScript. The layout adapts seamlessly to different screen sizes, with a dynamic menu optimized for mobile devices.
 
+Focus: Implementing responsive design techniques and using JavaScript to create a mobile-friendly navigation menu. 
+
+### Tech Stack: React + Vite, CSS
+
+![Screenshot](./SunnySide.png)
+
+[View Repository](https://github.com/ayeshalatif1/LANDING-PAGE-SUNNYSIDE-AGENCY-) | [Live Demo](https://ayeshalatif1.github.io/LANDING-PAGE-SUNNYSIDE-AGENCY-/)
+ 
 ### FAQ Accordion
 An interactive FAQ Accordion built with HTML, CSS, and JavaScript. It allows users to expand or collapse questions smoothly, providing a clean and responsive way to display FAQs.
 
@@ -51,16 +56,7 @@ Focus: Implementing game logic with JavaScript, handling player turns, and dynam
 
 [View Repository](https://github.com/ayeshalatif1/Tic-Tac-Toe-Game) | [Live Demo](https://ayeshalatif1.github.io/Tic-Tac-Toe-Game/)
 
-### Sunny Side Agency Landing Page  
-A responsive and clean Sunny Side Agency Landing Page built with HTML, CSS, and JavaScript. The layout adapts seamlessly to different screen sizes, with a dynamic menu optimized for mobile devices.
 
-Focus: Implementing responsive design techniques and using JavaScript to create a mobile-friendly navigation menu. 
-
-![Screenshot](./SunnySide.png)
-
-[View Repository](https://github.com/ayeshalatif1/LANDING-PAGE-SUNNYSIDE-AGENCY-) | [Live Demo](https://ayeshalatif1.github.io/LANDING-PAGE-SUNNYSIDE-AGENCY-/)
-
-### Tech Stack: React + Vite, CSS 
 
 ### Background Color Changer  
 A small web app that dynamically changes background colors with smooth transitions on user click.  
