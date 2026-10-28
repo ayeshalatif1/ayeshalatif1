@@ -28,6 +28,8 @@ An explainable early-warning prototype that estimates whether a student may be a
 
 Focus: Build a student-performance prediction prototype. It should accept student information, predict a performance/risk category, identify the main factors influencing that result, and present those factors in simple educational language
 
+[View Repository](https://github.com/ayeshalatif1/explain-my-learning-risk) | [Live Demo](https://explain-my-learning-risk.streamlit.app/)
+
 Tech Stack 
 Language: Python 
 Data Handling: Pandas, Numpy
@@ -38,9 +40,6 @@ Interface: Streamlit
 Explainability: SHAP
 Development: VS Code, Jupyter Notebook, Git and GitHub
 Deployment: Streamlit Community Cloud
-
-1.PNG
-1.PNG
 
 ![Tip Calculator Screenshot](https://github.com/ayeshalatif1/explain-my-learning-risk/blob/main/1.PNG)  
 
