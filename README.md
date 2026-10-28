@@ -30,16 +30,14 @@ Focus: Build a student-performance prediction prototype. It should accept studen
 
 [View Repository](https://github.com/ayeshalatif1/explain-my-learning-risk) | [Live Demo](https://explain-my-learning-risk.streamlit.app/)
 
-Tech Stack 
-Language: Python 
-Data Handling: Pandas, Numpy
-Machine Learning: scikit-learn (logistic regression)
-Visualization: matplotlib
-Model Saving: joblib
-Interface: Streamlit
-Explainability: SHAP
-Development: VS Code, Jupyter Notebook, Git and GitHub
-Deployment: Streamlit Community Cloud
+### Tech Stack 
+Python, 
+Pandas, Numpy,
+scikit-learn (logistic regression),
+matplotlib,
+joblib,
+Streamlit,
+SHAP
 
 ![Tip Calculator Screenshot](https://github.com/ayeshalatif1/explain-my-learning-risk/blob/main/1.PNG)  
 
