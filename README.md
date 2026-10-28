@@ -26,80 +26,72 @@ SHAP
 
 ![Explain My Learning Risk Screenshot](https://github.com/ayeshalatif1/explain-my-learning-risk/blob/main/1.PNG)  
 
-### Sunny Side Agency Landing Page  
-A responsive and clean Sunny Side Agency Landing Page built with HTML, CSS, and JavaScript. The layout adapts seamlessly to different screen sizes, with a dynamic menu optimized for mobile devices.
+### Currency Converter
+A Currency Converter built with React that allows users to convert between different currencies using real-time exchange rates.
 
-Focus: Implementing responsive design techniques and using JavaScript to create a mobile-friendly navigation menu. 
+Focus: Fetching live data from an API and using React state management to update conversion results dynamically.
 
-### Tech Stack: React + Vite, CSS
+### Tech Stack: React + Vite, CSS, API
 
-![Screenshot](./SunnySide.png)
+![Background Color Changer Screenshot](./currency.PNG)  
 
-[View Repository](https://github.com/ayeshalatif1/LANDING-PAGE-SUNNYSIDE-AGENCY-) | [Live Demo](https://ayeshalatif1.github.io/LANDING-PAGE-SUNNYSIDE-AGENCY-/)
- 
-### FAQ Accordion
-An interactive FAQ Accordion built with HTML, CSS, and JavaScript. It allows users to expand or collapse questions smoothly, providing a clean and responsive way to display FAQs.
-
-Focus: Using JavaScript to toggle content visibility and implementing a responsive, user-friendly accordion layout.
-
-![Tip Calculator Screenshot](./Capture.PNG)  
-
-[View Repository](https://github.com/ayeshalatif1/FAQ-ACCORDION) | [Live Demo](https://ayeshalatif1.github.io/FAQ-ACCORDION/)
-
-
-### Tic Tac Toe Game  
-A classic Tic Tac Toe Game built with HTML, CSS, and JavaScript. Players can enjoy a simple, interactive interface with real-time win detection and reset functionality.
-
-Focus: Implementing game logic with JavaScript, handling player turns, and dynamically updating the UI based on game outcomes.
-
-![Currency Converter Screenshot](./IMG_20251024_000841.jpg)  
-
-[View Repository](https://github.com/ayeshalatif1/Tic-Tac-Toe-Game) | [Live Demo](https://ayeshalatif1.github.io/Tic-Tac-Toe-Game/)
-
-
-
-### Background Color Changer  
-A small web app that dynamically changes background colors with smooth transitions on user click.  
-
-Focus: Implementation of state management for smooth transition and object manipulation to display relevent color name and description.  
-
-![Background Color Changer Screenshot](./bgChange.png)  
-
-[View Repository](https://github.com/ayeshalatif1/backgroundColorChanger) | [Live Demo](https://ayeshalatif1.github.io/backgroundColorChanger/)
+[View Repository](https://github.com/ayeshalatif1/currencyConverter) | [Live Demo](https://ayeshalatif1.github.io/currencyConverter/)
 
 ### Tip Calculator
 A responsive Tip Calculator built with React that helps users easily calculate the tip amount and total bill per person.
 
 Focus: Using React hooks like useState, and useEffect for dynamic calculations and building a clean, user-friendly interface.
 
-![Background Color Changer Screenshot](./tip.PNG)  
+### Tech Stack: React + Vite, CSS
+
+![Tip Calculator](./tip.PNG)  
 
 [View Repository](https://github.com/ayeshalatif1/Tip-Calculator/) | [Live Demo](https://ayeshalatif1.github.io/Tip-Calculator/)
 
-### Currency Converter
-A Currency Converter built with React that allows users to convert between different currencies using real-time exchange rates.
 
-Focus: Fetching live data from an API and using React state management to update conversion results dynamically.
+### Sunny Side Agency Landing Page  
+A responsive and clean Sunny Side Agency Landing Page built with HTML, CSS, and JavaScript. The layout adapts seamlessly to different screen sizes, with a dynamic menu optimized for mobile devices.
 
-![Background Color Changer Screenshot](./currency.PNG)  
+Focus: Implementing responsive design techniques and using JavaScript to create a mobile-friendly navigation menu. 
 
-[View Repository](https://github.com/ayeshalatif1/currencyConverter) | [Live Demo](https://ayeshalatif1.github.io/currencyConverter/)
+### Tech Stack: HTML, CSS, JavaScript
+
+![Screenshot](./SunnySide.png)
+
+[View Repository](https://github.com/ayeshalatif1/LANDING-PAGE-SUNNYSIDE-AGENCY-) | [Live Demo](https://ayeshalatif1.github.io/LANDING-PAGE-SUNNYSIDE-AGENCY-/)
+ 
+
+### Tic Tac Toe Game  
+A classic Tic Tac Toe Game built with HTML, CSS, and JavaScript. Players can enjoy a simple, interactive interface with real-time win detection and reset functionality.
+
+Focus: Implementing game logic with JavaScript, handling player turns, and dynamically updating the UI based on game outcomes.
+
+### Tech Stack: HTML, CSS, JavaScript
+
+![Tic Tac Toe Screenshot](./IMG_20251024_000841.jpg)  
+
+[View Repository](https://github.com/ayeshalatif1/Tic-Tac-Toe-Game) | [Live Demo](https://ayeshalatif1.github.io/Tic-Tac-Toe-Game/)
+
+
 
 ## Technical Skills
 
-Programming Languages: React, HTML, CSS, JavaScript, C++
+Programming Languages: JavaScript, Python, C++
+
+Libraries / Frameworks: React, Node Js, Bootstrap, Tailwind CSS, 
 
 Database: MySQL, SQL Server  
 
 Tools: Git, GitHub, VS Code
 
-Other: APIs, JSON, Responsive Web Design, Tailwind CSS
+Other: APIs, JSON, Responsive Web Design, CSS, AI Integration
 
 ## Highlights
 
 - Experienced in translating **UI/UX designs into clean, maintainable code**  
 - Skilled in **responsive layouts** and **component-based development**  
-- Familiar with **API integration**, **state management**, and **data validation**  
+- Familiar with **API integration**, **state management**, and **data validation**
+- Wroking with AI projects and enhancing skills in AI Integration
 - Continuously improving skills in web frameworks and clean coding practices  
 
 
